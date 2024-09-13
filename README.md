@@ -3,11 +3,11 @@ Roadmap penelitian untuk perencanaan sistem informasi proyeksi Harga Pokok Produ
 ![DALL·E 2024-09-07 15 07 09 - A detailed flowchart representing the process of system development, consisting of the following steps_ 1  Needs and Problem Identification 2  Literat](https://github.com/user-attachments/assets/b73ac320-5bb4-4704-8c45-c037bfbddf22)
 
 1. Identifikasi Kebutuhan dan Masalah
-•	Tujuan: Memahami kebutuhan bisnis dan masalah yang ingin diselesaikan.
-•	Langkah-langkah:
-o	Melakukan survei atau wawancara dengan stakeholder untuk memahami kebutuhan terkait proyeksi HPP.
-o	Mengidentifikasi masalah utama dalam perhitungan dan pelaporan HPP.
-o	Merumuskan tujuan penelitian, seperti efisiensi sistem atau akurasi data HPP.
+#	Tujuan: Memahami kebutuhan bisnis dan masalah yang ingin diselesaikan.
+#	Langkah-langkah:
+#	Melakukan survei atau wawancara dengan stakeholder untuk memahami kebutuhan terkait proyeksi HPP.
+#	Mengidentifikasi masalah utama dalam perhitungan dan pelaporan HPP.
+#	Merumuskan tujuan penelitian, seperti efisiensi sistem atau akurasi data HPP.
 2. Studi Literatur dan Kajian Teknologi
 •	Tujuan: Mengumpulkan informasi dari penelitian terdahulu dan teknologi yang relevan.
 •	Langkah-langkah:
@@ -44,6 +44,3 @@ o	Memantau dan melakukan pemeliharaan sistem secara berkala untuk memastikan sis
 o	Melakukan evaluasi berkala untuk memantau keandalan proyeksi HPP dan akurasi sistem.
 o	Mengidentifikasi fitur tambahan atau optimisasi yang dapat ditambahkan.
 o	Rencana pengembangan jangka panjang untuk mengadaptasi sistem terhadap perubahan kebutuhan bisnis atau teknologi.
-________________________________________
-Roadmap ini dapat dimodifikasi sesuai dengan konteks spesifik dan kebutuhan organisasi yang mengembangkan sistem informasi proyeksi HPP.
-
