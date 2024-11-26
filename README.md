@@ -1,10 +1,7 @@
 # Roadmap penelitian untuk perencanaan Sistem Penilaian Kinerja Karyawan Berbasis Android menggunakan Metode MBO dan BARS. Berikut adalah contoh roadmap yang bisa Anda jadikan acuan:
 
-<p align="center">
-  <img src="[your_relative_path_here_number_2_large_name](https://github.com/user-attachments/assets/825b4515-9bf6-4f6d-839c-ed04d6f28bc5)" width="350" alt="accessibility text">
-</p>
+![Roadmap_Android_Performance_System](https://github.com/user-attachments/assets/064ba7ee-1574-4aea-b470-0785d88e6026)
 
-![Roadmap_Android_Performance_System](https://github.com/user-attachments/assets/825b4515-9bf6-4f6d-839c-ed04d6f28bc5)
 
 # Tahap 1: Perencanaan dan Studi Pendahuluan
 ## Identifikasi Masalah
