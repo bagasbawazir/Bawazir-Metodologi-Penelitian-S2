@@ -2,6 +2,8 @@
 
 ![Roadmap_Android_Performance_System](https://github.com/user-attachments/assets/064ba7ee-1574-4aea-b470-0785d88e6026)
 
+## Roadmap Penelitian
+![Roadmap Sistem Penilaian Kinerja](assets/Roadmap_Android_Performance_System.png)
 
 # Tahap 1: Perencanaan dan Studi Pendahuluan
 ## Identifikasi Masalah
